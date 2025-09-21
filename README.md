@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katikolakarthik&show_icons=true&theme=radical&count_private=true)
 
 
 <!--
