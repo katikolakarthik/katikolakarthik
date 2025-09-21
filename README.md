@@ -26,7 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katikolakarthik&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katikolakarthik&show_icons=true&theme=radical&count_private=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=katikolakarthik&theme=tokyo-night)
+![Trophy](https://github-profile-trophy.vercel.app/?username=katikolakarthik&theme=onedark&row=1&column=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katikolakarthik&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 
 
 <!--
