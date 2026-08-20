@@ -178,13 +178,11 @@ I'm a **B.Tech Computer Science student specializing in Data Science**, passiona
 <div align="center">
 
 <a href="https://github.com/katikolakarthik">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=katikolakarthik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=katikolakarthik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/katikolakarthik">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=katikolakarthik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=katikolakarthik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </a>
 
 </div>
@@ -195,7 +193,7 @@ I'm a **B.Tech Computer Science student specializing in Data Science**, passiona
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=katikolakarthik&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=katikolakarthik&theme=tokyonight&hide_border=true&cache=1" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -205,21 +203,9 @@ I'm a **B.Tech Computer Science student specializing in Data Science**, passiona
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=katikolakarthik&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=katikolakarthik&theme=tokyo-night&hide_border=true&area=true&custom_title=Katikola%20Karthik's%20Contribution%20Activity" alt="GitHub Contribution Activity" />
 
 </div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=katikolakarthik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-
-</div>
-
----
 
 ## 💡 What I'm Currently Working On
 
