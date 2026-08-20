@@ -173,37 +173,11 @@ I'm a **B.Tech Computer Science student specializing in Data Science**, passiona
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Contributions
 
 <div align="center">
 
-<a href="https://github.com/katikolakarthik">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=katikolakarthik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</a>
-
-<a href="https://github.com/katikolakarthik">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=katikolakarthik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
-</a>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=katikolakarthik&theme=tokyonight&hide_border=true&cache=1" alt="GitHub Contribution Streak" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=katikolakarthik&theme=tokyo-night&hide_border=true&area=true&custom_title=Katikola%20Karthik's%20Contribution%20Activity" alt="GitHub Contribution Activity" />
+<img src="https://ghchart.rshah.org/katikolakarthik" alt="Katikola Karthik GitHub Contributions" />
 
 </div>
 
